@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LMSApp</string>
+    <string name="mensagem_inicial">Bem Vindo ao LMS</string>
+</resources>
